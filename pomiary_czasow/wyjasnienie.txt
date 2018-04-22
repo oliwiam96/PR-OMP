@@ -1,0 +1,14 @@
+﻿Kolejność wyników:
+KIJ_seq
+KIJ_before_k
+KIJ_before_k_atomic
+KIJ_before_k_reduct;
+KIJ_before_i
+KIJ_before_j
+
+Pliki zaczynające się na m, np. m1000.txt to pomiary dla macierzy 1000x1000 KIJa.
+Każdy plik ma 10 próbek.
+
+Pliki zaczynające się na w, np. w1000.txt to pomiar tylko dla macierzy IKJ.
+Każdy plik ma 10 próbek.
+Jest oddzielnie (w screenach też), bo zapomniałam o tym i musiałam robić osobno na końcu :(

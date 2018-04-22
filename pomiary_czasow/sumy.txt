@@ -1,0 +1,19 @@
+liczba watkow  = 4
+
+KIJ_seq Czas:   1.0680 sec
+Suma: 250403472.000000
+
+KIJ_before_kCzas:   0.5410 sec
+Suma: 231568592.000000
+
+KIJ_before_k_atomicCzas:   5.0420 sec
+Suma: 250403504.000000
+
+KIJ_before_k_reductCzas:   0.9710 sec
+Suma: 250403456.000000
+
+KIJ_before_iCzas:   0.3280 sec
+Suma: 250403472.000000
+
+KIJ_before_jCzas:   2.2080 sec
+Suma: 250403472.000000
